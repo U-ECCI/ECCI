@@ -1,7 +1,7 @@
-title: ECCI GITHUB
-description: Feed for GitHub Topics and Collections.
+title: Sistema de riego automatico alimentado por energia solar
+description: Este proyecto propone el diseño de un sistema de riego automatizado y alimentado con energía solar, consiste en utilizar un sensor de huemdad para regar una planta cada vez que sea necesario, este estara alimentado por un panel solar
 
-repository: github/explore
+repository: Sensors/sistema de riego automatico
 
 plugins:
   - jekyll-redirect-from
